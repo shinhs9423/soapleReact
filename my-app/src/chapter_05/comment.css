@@ -1,0 +1,17 @@
+.comment_wrap {
+    display:flex;
+    border: 1px solid #ccc;
+    padding: 10px;
+    align-items: center;
+    gap:20px;
+}
+.name_wrap {
+    display: flex;
+    flex:1;
+    max-width: 50px;
+    min-height: 50px;
+    background-color: #ccc;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+}
